@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="Touch-Skin" />
+	<meta name="description" content="uma segunda pele">
+	<meta name="author" content="themeenergy.com">
+	
+	<title>Touch-Skin</title>
+	
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/icons.css" />
+	<link href="http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800" rel="stylesheet">
+	<script src="https://use.fontawesome.com/e808bf9397.js"></script>
+	<link rel="shortcut icon" href="images/favicon.ico" />
+	
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<!--preloader-->
+	<div class="preloader">
+		<div class="spinner"></div>
+	</div>
+	<!--//preloader-->
+	
+	<!--header-->
+	<header class="head" role="banner">
+		<!--wrap-->
+		<div class="wrap clearfix">
+			<a href="index.html" title="Touch-Skin" class="logo"><img src="" alt="" /></a>
+			
+			<nav class="main-nav" role="navigation" id="menu">
+				<ul>
+					<li class="current-menu-item"><a href="index.html" title="Home"><span>Home</span></a></li>
+					<li><a href="recipes.html" title="Receitas"><span>Receitas</span></a>
+						<ul>
+							<li><a href="tintas.html" title="Tintas Condutivas">Tintas</a></li><li><a href="estruturas.html" title="Estruturas">Estruturas</a></li>
+						</ul>
+					</li>
+					<li><a href="blog.html" title="Blog"><span>Blog</span></a>
+					</li>
+					<li><a href="contact.html" title="Contato"><span>Contato</span></a></li>
+				</ul>
+			</nav>
+			
+			<nav class="user-nav" role="navigation">
+				<ul>
+					<li class="light"><a href="find_recipe.html" title="Encontre Receitas"><i class="icon icon-themeenergy_search"></i> <span>Encontre Receitas</span></a></li>
+					<li class="medium"><a href="my_profile.html" title="Minha Conta"><i class="icon icon-themeenergy_chef-hat"></i> <span>Minha Conta</span></a></li>
+					<li class="dark"><a href="submit_recipe.html" title="Envie uma Receita"><i class="icon icon-themeenergy_fork-spoon"></i> <span>Envie uma Receita</span></a></li>
+				</ul>
+			</nav>
+		</div>
+		<!--//wrap-->
+	</header>
+	<!--//header-->
+		
+	<!--main-->
+	<main class="main" role="main">
+		<!--wrap-->
+		<div class="wrap clearfix">
+			<!--breadcrumbs-->
+			<nav class="breadcrumbs">
+				<ul>
+					<li><a href="index.html" title="Home">Home</a></li>
+					<li><a href="#" title="Blog">Blog</a></li>
+					<li>Interfaces Vestíveis</li>
+				</ul>
+			</nav>
+			<!--//breadcrumbs-->
+			
+			<!--row-->
+			<div class="row">
+				<header class="s-title">
+					<h1>Interfaces Vestíveis</h1>
+				</header>
+				
+				
+				<!--content-->
+				<section class="content three-fourth">
+					<!--blog entry-->
+					<article class="post single">
+						<div class="entry-meta">
+							<div class="date">
+								<span class="day">29</span> 
+								<span class="my">Maio, 2013</span>
+							</div>
+							<div class="avatar">
+								<a href="my_profile.html"><img src="images/lina.jpg" alt="" /><span>Lina Lopes</span></a>
+							</div>
+						</div>
+						<div class="container">
+							<div class="entry-featured"><a href="#"><img src="images/medialab.png" alt="" /></a></div>
+							<div class="entry-content">
+								<p class="lead">O Media Lab / UFG realiza pesquisas e inovação tecnológica com o intuito de tornar a UFG referência Nacional na área, tendo os seguintes objetivos: </p>
+								<p>Implementar pesquisas prospectivas de inovação tecnológica;</p>
+								<p>Auxiliar os PPGs no desenvolvimento de projetos de mestrandos e doutorandos, que estejam articulados com as áreas de atuação do Media Lab UFG;</p>
+								<p>Divulgar os avanços da cultura tecnológica nos segmentos do Media Lab UFG, a partirde promoção de eventos artísticos e científicos, locais, nacionais e internacionais;</p>
+							</div>
+						</div>
+					</article>
+					<!--//blog entry-->
+					
+					<!--comments-->
+					<div class="comments" id="comments">
+						<h2>5 comentários </h2>
+						<ol class="comment-list">
+							<!--comment-->
+							<li class="comment depth-1">
+								<div class="avatar"><a href="my_profile.html"><img src="images/avatar.jpg" alt="" /></a></div>
+								<div class="comment-box">
+									<div class="comment-author meta"> 
+										<strong>Kimberly C.</strong> disse 1 mês atrás <a href="#" class="comment-reply-link"> Responder</a>
+									</div>
+									<div class="comment-text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+									</div>
+								</div> 
+							</li>
+							<!--//comment-->
+							
+							<!--comment-->
+							<li class="comment depth-1">
+								<div class="avatar"><a href="my_profile.html"><img src="images/avatar.jpg" alt="" /></a></div>
+								<div class="comment-box">
+									<div class="comment-author meta"> 
+										<strong>Alex J.</strong> disse 1 mês atrás <a href="#" class="comment-reply-link"> Responder</a>
+									</div>
+									<div class="comment-text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+									</div>
+								</div> 
+							</li>
+							<!--//comment-->
+							
+							<!--comment-->
+							<li class="comment depth-2">
+								<div class="avatar"><a href="my_profile.html"><img src="images/avatar.jpg" alt="" /></a></div>
+								<div class="comment-box">
+									<div class="comment-author meta"> 
+										<strong>Kimberly C.</strong> disse 1 mês atrás <a href="#" class="comment-reply-link"> Responder</a>
+									</div>
+									<div class="comment-text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+									</div>
+								</div> 
+							</li>
+							<!--//comment-->
+							
+							<!--comment-->
+							<li class="comment depth-3">
+								<div class="avatar"><a href="my_profile.html"><img src="images/avatar.jpg" alt="" /></a></div>
+								<div class="comment-box">
+									<div class="comment-author meta"> 
+										<strong>Alex J.</strong> disse 1 mês atrás <a href="#" class="comment-reply-link"> Responder</a>
+									</div>
+									<div class="comment-text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+									</div>
+								</div> 
+							</li>
+							<!--//comment-->
+							
+							<!--comment-->
+							<li class="comment depth-1">
+								<div class="avatar"><a href="my_profile.html"><img src="images/avatar.jpg" alt="" /></a></div>
+								<div class="comment-box">
+									<div class="comment-author meta"> 
+										<strong>Denise M.</strong> disse 1 mês atrás <a href="#" class="comment-reply-link"> Responder</a>
+									</div>
+									<div class="comment-text">
+										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+									</div>
+								</div> 
+							</li>
+							<!--//comment-->
+						</ol>
+					</div>
+					<!--//comments-->
+					
+					<!--respond-->
+					<div class="comment-respond" id="respond">
+						<h2>Deixe um comentário</h2>
+						<div class="container">
+							<p><strong>Nota:</strong> Comentários neste web site refletem o ponto de vista dos seus autores, e não necesssariamente o ponto de vista do portal Touch-Skin. Solicitamos que se abstenham de insultos, palavrões e expressões vulgar. Nos reservamos o direito de deletar qualquer comentário sem notificar.</p>
+							<p>Seu endereço de email não será publicado. Campos obrigatórios estão marcados com <span class="req">*</span></p>
+							<form>
+								<div class="f-row">
+									<div class="third">
+										<input type="text" placeholder="Seu nome" />
+										<span class="req">*</span>
+									</div>
+									
+									<div class="third">
+										<input type="email" placeholder="Seu email" />
+										<span class="req">*</span>
+									</div>
+									
+									<div class="third">
+										<input type="text" placeholder="Seu site" />
+									</div>
+								
+								</div>
+								<div class="f-row">
+									<textarea></textarea>
+								</div>
+								
+								<div class="f-row">
+									<div class="third bwrap">
+										<input type="submit" value="Enviar comentário" />
+									</div>
+								</div>
+								
+								<div class="bottom">
+									<div class="f-row checkbox">
+										<input type="checkbox" id="ch1" />
+										<label for="ch1">Notifique-me das respostas aos meus comentários por e-mail</label>
+									</div>
+									<div class="f-row checkbox">
+										<input type="checkbox" id="ch2" />
+										<label for="ch2">Notifique-me de novos artigos por email.</label>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+					<!--//respond-->
+				</section>
+				<!--//content-->
+			
+				<!--right sidebar-->
+				<aside class="sidebar one-fourth">
+					<div class="widget">
+						<ul class="categories right">
+							<li><a href="#">Todas as receitas</a></li>
+							<li class="active"><a href="#">Opiniões, dicas e etc</a></li>
+							<li><a href="#">Eventos</a></li>
+							<li><a href="#">Inspiração</a></li>
+							<li><a href="#">Categorias de receitas</a></li>
+						</ul>
+					</div>
+				</aside>
+				<!--//right sidebar-->
+			</div>
+			<!--//row-->
+		</div>
+		<!--//wrap-->
+	</main>
+	<!--//main-->
+	
+	
+	<!--footer-->
+	<footer class="foot" role="contentinfo">
+		<div class="wrap clearfix">
+			<div class="row">
+				<article class="one-half">
+					<h5>Sobre a comunidade Touch-Skin</h5>
+					<p>Invenionistas interessados em materiais condutivos flexíveis que possam ser acoplados junto ao corpo. A pele natural é um sensor biológico ativado pelo toque. Os dispositivos técnicos poderiam ampliar as sensações e os sentimentos e o modo como comunicá-los?</p>
+				</article>
+				<article class="one-fourth">
+					<h5>Necessita ajuda?</h5>
+					<p>Contate-nos por email</p>
+					<p><em>T:</em>  +1 555 555 555<br /><em>E:</em>  <a href="#">touchskin@email.com</a></p>
+				</article>
+				<article class="one-fourth">
+					<h5>Siga nos</h5>
+					<ul class="social">
+						<li><a href="#" title="facebook"><i class="fa fa-fw fa-facebook"></i></a></li>
+						<li><a href="#" title="youtube"><i class="fa  fa-fw fa-youtube"></i></a></li>
+						<li><a href="#" title="rss"><i class="fa  fa-fw fa-rss"></i></a></li>
+						<li><a href="#" title="gplus"><i class="fa fa-fw fa-google-plus"></i></a></li>
+						<li><a href="#" title="linkedin"><i class="fa fa-fw fa-linkedin"></i></a></li>
+						<li><a href="#" title="twitter"><i class="fa fa-fw fa-twitter"></i></a></li>
+						<li><a href="#" title="pinterest"><i class="fa fa-fw fa-pinterest-p"></i></a></li>
+						<li><a href="#" title="vimeo"><i class="fa fa-fw fa-vimeo"></i></a></li>
+					</ul>
+				</article>
+				
+				<div class="bottom">
+					<p class="copy">Touch-Skin</p>
+					
+					<nav class="foot-nav">
+						<ul>
+							<li><a href="index.html" title="Home">Home</a></li>
+							<li><a href="recipes.html" title="Recipes">Receitas</a></li>
+							<li><a href="blog.html" title="Blog">Blog</a></li>
+							<li><a href="contact.html" title="Contact">Contato</a></li>    
+							<li><a href="find_recipe.html" title="Search for recipes">Encontre Receitas</a></li>
+							<li><a href="login.html" title="Login">Entre</a></li>	<li><a href="register.html" title="Registre-se">Registre-se</a></li>													
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!--//footer-->
+	
+	<script src="js/jquery-3.1.0.min.js"></script>
+	<script src="js/jquery.uniform.min.js"></script>
+	<script src="js/jquery.slicknav.min.js"></script>
+	<script src="js/scripts.js"></script>
+</body>
+</html>
+
